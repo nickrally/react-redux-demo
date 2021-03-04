@@ -3,6 +3,7 @@ import { Provider } from 'react-redux';
 import store from './redux/store';
 import './App.css';
 import CakeContainer from './components/CakeContainer'
+import IceCreamContainer from './components/iceCreamContainer';
 
 function App() {
   return (
